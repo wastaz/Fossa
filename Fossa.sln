@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fossa", "Fossa\Fossa.fsproj", "{01914385-0B12-4B0D-AA26-F8319C26271D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".other", ".other", "{3265194B-21B2-4CFD-AD23-7CCC7073EF96}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+	build.sh = build.sh
+	LICENSE = LICENSE
+	README.md = README.md
+EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{463DDEB7-0039-46A3-A5E5-9E9438537D51}"
+ProjectSection(SolutionItems) = preProject
+	paket.dependencies = paket.dependencies
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01914385-0B12-4B0D-AA26-F8319C26271D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01914385-0B12-4B0D-AA26-F8319C26271D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01914385-0B12-4B0D-AA26-F8319C26271D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01914385-0B12-4B0D-AA26-F8319C26271D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
