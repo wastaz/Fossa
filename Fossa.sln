@@ -13,6 +13,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{463DDEB7-0039-46A3-A5E5-9E9438537D51}"
 ProjectSection(SolutionItems) = preProject
 	paket.dependencies = paket.dependencies
+	paket.lock = paket.lock
 EndProjectSection
 EndProject
 Global
